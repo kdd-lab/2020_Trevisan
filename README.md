@@ -17,5 +17,4 @@ Experiments were carried out on a vast repertoire of networks of different natur
 The repository contains the following files:
 - [Codebase for Daucus Fractal Network Analyzer](https://github.com/kdd-lab/2020_Trevisan/tree/master/code/notebook)
 - [Datasets of the corpus of networks tested in the experimental phase](https://github.com/kdd-lab/2020_Trevisan/tree/master/datasets)
-- [Literature study for the current state of the art on Natural Computing, Network Science and Fractals](https://github.com/kdd-lab/2020_Trevisan/tree/master/related)
-- [Thesis paper in Italian (more than 100 pages) and a shorter version in English (tbd soon)](https://github.com/kdd-lab/2020_Trevisan/tree/master/thesis)
+- [Thesis paper in Italian (more than 100 pages) and a presentation in English](https://github.com/kdd-lab/2020_Trevisan/tree/master/thesis)
